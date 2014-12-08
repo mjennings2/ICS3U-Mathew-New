@@ -37,7 +37,7 @@ public class BumpWork {
 			}
 			System.out.print("\n");
 		}
-		
+		System.out.print("hi");
 	}
 
 	private static void Factors(Scanner keyboard) {
